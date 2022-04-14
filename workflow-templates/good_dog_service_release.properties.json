@@ -1,4 +1,0 @@
-{
-  "name": "Good Dog Service Release",
-  "description": "Tag new release and kick off deploy with CodePipeline"
-}
