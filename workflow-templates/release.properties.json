@@ -1,0 +1,4 @@
+{
+  "name": "Release",
+  "description": "Tag new release and kick off deploy with CodePipeline"
+}
