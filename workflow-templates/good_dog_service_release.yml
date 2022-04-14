@@ -1,4 +1,4 @@
-name: Release
+name: Good Dog Service Release
 
 on:
  push:
